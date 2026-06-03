@@ -38,6 +38,7 @@ A responsive Student Task Manager website created using HTML, CSS, and JavaScrip
 
 ### Day 8
 - install the flutter on the PC
+
 ## Technologies Used
 
 - HTML5
@@ -53,6 +54,13 @@ student-task-manager/
 │── script.js  
 │── README.md  
 │── .gitignore  
+
+## How to Run
+
+1. Download or clone the repository.
+2. Open the project folder.
+3. Open `index.html` in any modern web browser.
+
 
 ## Future Improvements
 
