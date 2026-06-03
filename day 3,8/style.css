@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial;
+    background-color: #f4f4f4;
+}
+
+/* Navbar */
+
+nav{
+    background-color: #0077ff;
+    color: rgb(0, 0, 0);
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+}
+
+nav ul{
+    list-style: none;
+
+    display: flex;
+    gap: 20px;
+}
+
+nav li{
+    cursor: pointer;
+}
+
+/* Main Container */
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 90vh;
+}
+
+.task-box{
+    background-color: white;
+
+    width: 450px;
+
+    padding: 25px;
+
+    border-radius: 10px;
+
+    box-shadow: 0px 0px 10px lightgray;
+}
+
+h1{
+    text-align: center;
+}
+
+.subtitle{
+    text-align: center;
+    color: gray;
+
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+/* Input Section */
+
+.input-section{
+    display: flex;
+    gap: 10px;
+}
+
+input{
+    flex: 1;
+
+    padding: 12px;
+
+    font-size: 16px;
+
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+button{
+    padding: 12px 18px;
+
+    background-color: #0077ff;
+    color: white;
+
+    border: none;
+    border-radius: 5px;
+
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #005ad1;
+}
+
+/* Task List */
+
+ul{
+    list-style: none;
+    margin-top: 20px;
+}
+
+li{
+    background-color: #eeeeee;
+
+    padding: 12px;
+    margin-bottom: 10px;
+
+    border-radius: 5px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.delete-btn{
+    background-color: red;
+
+    padding: 6px 10px;
+}
+
+.delete-btn:hover{
+    background-color: darkred;
+}
+
+/* Responsive Design */
+
+@media screen and (max-width: 600px){
+
+    nav{
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    nav ul{
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .task-box{
+        width: 90%;
+    }
+
+    .input-section{
+        flex-direction: column;
+    }
+
+}
