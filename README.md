@@ -1,126 +1,167 @@
 # Avishkarana Andhra Summer Internship
 
-## Web Development + App Development (45 Days)
+## Web Development
 
 ### Overview
 
-This repository contains the assignments, practical work, and learning activities completed as part of the Avishkarana Andhra Summer Internship Program.
+This repository contains assignments, practical work, and learning outcomes completed during the Avishkarana Andhra Summer Internship Program.
 
-The internship focuses on Web Development and App Development, covering frontend technologies, mobile application development, backend development, databases, cloud deployment, and full-stack project development.
+The training focuses on Web Development and Mobile App Development, covering frontend technologies, version control, mobile application development, and cross-platform frameworks.
 
 ---
 
 ## Foundation Training (Days 1–10)
 
 ### Day 1
+
 **Introduction to Web & Mobile App Development**
-- Understanding Web Development
-- Understanding Mobile App Development
-- Development Environment Setup
+
+* Overview of Web Development
+* Overview of Mobile App Development
+* Development Environment Setup
 
 ### Day 2
+
 **HTML5 Basics**
-- HTML Structure
-- Elements and Tags
-- Creating a Personal Webpage
+
+* HTML Document Structure
+* Text Formatting
+* Links and Lists
+* Personal Webpage Creation
 
 ### Day 3
+
 **CSS3 Fundamentals**
-- Styling Web Pages
-- Selectors and Properties
-- Responsive Webpage Styling
+
+* CSS Selectors
+* Colors and Typography
+* Layout Styling
+* Responsive Webpage Styling
 
 ### Day 4
+
 **JavaScript Basics**
-- Variables and Data Types
-- Functions and Events
-- Interactive Webpage Development
+
+* Variables and Data Types
+* Functions
+* Events
+* Interactive Webpage Development
 
 ### Day 5
+
 **ES6 Concepts & DOM Manipulation**
-- Modern JavaScript Features
-- DOM Access and Manipulation
-- Dynamic Webpage Creation
+
+* Modern JavaScript Features
+* DOM Selection and Modification
+* Dynamic Webpage Creation
 
 ### Day 6
+
 **Responsive Design & Flexbox/Grid**
-- Responsive Layout Design
-- Flexbox
-- CSS Grid
-- Mobile-Friendly Interfaces
+
+* Responsive Layout Techniques
+* Flexbox
+* CSS Grid
+* Mobile-Friendly Layout Design
 
 ### Day 7
+
 **Introduction to Git & GitHub**
-- Version Control Concepts
-- Git Commands
-- Repository Management
-- Project Upload to GitHub
+
+* Version Control Concepts
+* Git Commands
+* Repository Management
+* Project Upload to GitHub
 
 ### Day 8
+
 **Introduction to Mobile Apps & Cross-Platform Development**
-- Mobile Application Fundamentals
-- Cross-Platform Development Concepts
-- Application Workflow Understanding
+
+* Mobile Application Workflow
+* Native vs Cross-Platform Development
+* Understanding App Development Process
 
 ### Day 9
+
 **Basics of Flutter & Dart**
-- Flutter Framework Introduction
-- Dart Programming Basics
-- First Flutter Application
+
+* Flutter Framework Introduction
+* Dart Programming Basics
+* First Flutter Application
 
 ### Day 10
+
 **UI Components & Navigation in Flutter**
-- Flutter Widgets
-- User Interface Design
-- Navigation Between Screens
-- Multi-Screen Application Development
+
+* Flutter Widgets
+* UI Design Basics
+* Navigation Between Screens
+* Multi-Screen Application Development
 
 ---
 
+### Skill Development (Current Progress)
+
+### Day 11
+
+**Introduction to React**
+
+* React Environment Setup
+* Create React Project
+* Understanding React Project Structure
+* Running React Applications
+
 ## Technologies Covered
 
-### Web Development
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- Responsive Design
-- Flexbox
-- CSS Grid
+### Web Technologies
 
-### Version Control
-- Git
-- GitHub
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* React
 
-### Mobile App Development
-- Flutter
-- Dart
+### Development Tools
+
+* Git
+* GitHub
+
+### Mobile Development
+
+* Flutter
+* Dart
 
 ---
 
 ## Practical Work Completed
 
-- Development Environment Setup
-- Personal Webpage Creation
-- Responsive Webpage Styling
-- Interactive Webpage Development
-- Dynamic Webpage Creation
-- Mobile-Friendly Layout Design
-- GitHub Project Management
-- App Workflow Understanding
-- First Flutter Application
-- Multi-Screen Flutter Application UI
-
+* Development Environment Setup
+* Personal Webpage Creation
+* Responsive Webpage Styling
+* Interactive Webpage Development
+* Dynamic Webpage Development
+* Mobile-Friendly Layout Design
+* GitHub Project Management
+* Mobile App Workflow Understanding
+* First Flutter Application
+* Multi-Screen Flutter UI
+* React Project Creation
 ---
 
-## Internship Program
+## Organization
 
 Avishkarana Andhra Summer Internship
 
+## Program 
+
+Web Development Internship
+
 ### Duration
+
 45 Days
 
 ### Current Progress
-Completed: Day 1 – Day 10
+
+Completed Day 11
 
 ---
 
