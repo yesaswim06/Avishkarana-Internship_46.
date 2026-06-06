@@ -111,6 +111,16 @@ The training focuses on Web Development and Mobile App Development, covering fro
 * Understanding React Project Structure
 * Running React Applications
 
+### Day 12
+
+**Components, Props, State**
+
+* Functional Components
+* Reusable UI Components
+* Props for Data Passing
+* State Management Basics
+* Dynamic React User Interface
+
 ## Technologies Covered
 
 ### Web Technologies
@@ -145,6 +155,7 @@ The training focuses on Web Development and Mobile App Development, covering fro
 * First Flutter Application
 * Multi-Screen Flutter UI
 * React Project Creation
+* Dynamic React UI using Components, Props, and State
 ---
 
 ## Organization
@@ -161,7 +172,7 @@ Web Development Internship
 
 ### Current Progress
 
-Completed Day 11
+Completed Day 12
 
 ---
 
