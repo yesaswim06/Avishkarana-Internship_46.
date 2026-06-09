@@ -121,6 +121,17 @@ The training focuses on Web Development and Mobile App Development, covering fro
 * State Management Basics
 * Dynamic React User Interface
 
+### Day 13
+
+**React Routing & Forms**
+
+* React Router Setup
+* Navigation Between Pages
+* Multi-Page Website Development
+* Form Creation and Handling
+* User Input Management
+* Form Validation Basics
+
 ## Technologies Covered
 
 ### Web Technologies
@@ -129,6 +140,7 @@ The training focuses on Web Development and Mobile App Development, covering fro
 * CSS3
 * JavaScript (ES6)
 * React
+* React Router
 
 ### Development Tools
 
@@ -156,6 +168,8 @@ The training focuses on Web Development and Mobile App Development, covering fro
 * Multi-Screen Flutter UI
 * React Project Creation
 * Dynamic React UI using Components, Props, and State
+* Multi-Page React Website
+* Form Handling and User Input Management
 ---
 
 ## Organization
@@ -172,7 +186,7 @@ Web Development Internship
 
 ### Current Progress
 
-Completed Day 12
+Completed Day 13
 
 ---
 
