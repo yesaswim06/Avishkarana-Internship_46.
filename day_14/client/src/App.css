@@ -1,0 +1,44 @@
+body{
+  margin:0;
+  font-family:Arial;
+  background:#f5f7fa;
+}
+
+.navbar{
+  background:#2563eb;
+  color:white;
+  padding:15px 40px;
+  display:flex;
+  justify-content:space-between;
+}
+
+.navbar a{
+  color:white;
+  margin-left:20px;
+  text-decoration:none;
+}
+
+.page{
+  text-align:center;
+  padding:50px;
+}
+
+input{
+  padding:10px;
+  width:250px;
+}
+
+button{
+  padding:10px 20px;
+  margin-left:10px;
+  cursor:pointer;
+}
+
+.task-card{
+  background:white;
+  width:400px;
+  margin:20px auto;
+  padding:20px;
+  border-radius:10px;
+  box-shadow:0 0 10px rgba(0,0,0,.1);
+}
