@@ -132,6 +132,17 @@ The training focuses on Web Development and Mobile App Development, covering fro
 * User Input Management
 * Form Validation Basics
 
+### Day 14
+
+**Backend Basics with Node.js**
+
+* Introduction to Backend Development
+* Understanding Client-Server Architecture
+* Node.js Runtime Environment
+* Creating a Simple Backend Server
+* Handling Requests and Responses
+* Running Backend Applications
+
 ## Technologies Covered
 
 ### Web Technologies
@@ -152,6 +163,9 @@ The training focuses on Web Development and Mobile App Development, covering fro
 * Flutter
 * Dart
 
+### Backend Development
+
+* Node.js
 ---
 
 ## Practical Work Completed
@@ -170,6 +184,7 @@ The training focuses on Web Development and Mobile App Development, covering fro
 * Dynamic React UI using Components, Props, and State
 * Multi-Page React Website
 * Form Handling and User Input Management
+* Simple Backend Server Development using Node.js
 ---
 
 ## Organization
@@ -186,7 +201,7 @@ Web Development Internship
 
 ### Current Progress
 
-Completed Day 13
+Completed Day 14
 
 ---
 
